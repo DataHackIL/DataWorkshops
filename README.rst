@@ -51,6 +51,15 @@ Inbar Naor - A practical intro to Machine Learning
 **Slides:** https://github.com/DataHackIL/DataWorkshops/blob/master/DataHack2017/inbar_naor_intro_to_ml.pdf
 
 
+Dan Ofer - Introduction to Natural Language Processing
+------------------------------------------------------
+
+**Speaker:** Dan Ofer
+
+**Title:** Introduction to Natural Language Processing
+
+**Slides:** https://github.com/ddofer/talk/blob/master/NLP%20101%20-%20ML%20Seminar%202017.pdf
+
 
 DataHack 2017: The Deep Learning Workshop Track
 ===============================================

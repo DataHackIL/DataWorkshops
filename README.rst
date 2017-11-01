@@ -48,7 +48,7 @@ Inbar Naor - A practical intro to Machine Learning
 
 **Title:** A practical intro to Machine Learning
 
-**Repository link:** https://github.com/DataHackIL/handling_data_with_python_datahack_workshop
+**Slides:** https://github.com/DataHackIL/DataWorkshops/blob/master/DataHack2017/inbar_naor_intro_to_ml.pdf
 
 
 
@@ -64,3 +64,5 @@ Natanel Davidovits - A practical intro to Keras
 **Title:** A practical intro to Keras
 
 **Slides:** https://github.com/DataHackIL/DataWorkshops/blob/master/DataHack2017/natahnel_davidovits_intro_to_keras.pdf
+
+**Code:** https://github.com/ndor/Keras-example---Dow-Jones

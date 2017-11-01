@@ -2,9 +2,9 @@ DataWorkshops
 #############
 
 
-This is a list of past talks 
+This is a list of data science related workshops and intro talks given at DataHack events.
 
-You can also find us on `Facebook <https://www.facebook.com/datahackil/>`_, `Twitter <https://twitter.com/DataHackIL/>`_ and join `our monthly newsletter <join our monthly newsletter>`_. 
+You can find us on `our website <http://datahack-il.com/>`_, `Facebook <https://www.facebook.com/datahackil/>`_, `Meetup <https://www.meetup.com/DataHack/>`_, `YouTube <https://www.youtube.com/channel/UCdR7G8Yeh52LK1AvfFaEsqQ>`_ and `Twitter <https://twitter.com/DataHackIL/>`_, and also join `our monthly newsletter <join our monthly newsletter>`_. 
 
 |
 
@@ -63,4 +63,4 @@ Natanel Davidovits - A practical intro to Keras
 
 **Title:** A practical intro to Keras
 
-**Slides:** https://github.com/DataHackIL/handling_data_with_python_datahack_workshop
+**Slides:** https://github.com/DataHackIL/DataWorkshops/blob/master/DataHack2017/natahnel_davidovits_intro_to_keras.pdf

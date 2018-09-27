@@ -14,6 +14,71 @@ You can find us on `our website <http://datahack-il.com/>`_, `Facebook <https://
 
 |
 
+DataHack 2018: DataLearn - Preparation Day
+==========================================
+
+Daniel Marcous - Coding Your First Model
+----------------------------------------
+
+**Speaker:** Daniel Marcous
+
+**Title:** Introduction to Machine Learning - Coding Your First Model
+
+**Resources:** https://github.com/DataHackIL/DataWorkshops/blob/master/DataHack2018/Daniel_Marcous_Introduction_to_Machine_Learning__Coding_Your_First_Model.pdf
+
+
+DataHack 2018: DataLearn - Workshops Track
+==========================================
+
+Gad Benram - Deep Learning Workshop
+-----------------------------------
+
+**Speaker:** Gad Benram
+
+**Title:** Introduction to Deep Learning
+
+**Resources:** TBD
+
+
+Daniel Marcous - Practical Machine Learning Track - General
+-----------------------------------------------------------
+
+**Speaker:** Daniel Marcous
+
+**Title:** Introduction, Machine Learning Refresher, Kaggling
+
+**Resources:** TBD
+
+
+TBD - Practical Machine Learning Track - Preprocessing
+------------------------------------------------------
+
+**Speaker:** TBD
+
+**Title:** Preprocessing Data for Machine Learning
+
+**Resources:** TBD
+
+
+Yotam Sandbank - Practical Machine Learning Track - Tuning
+----------------------------------------------------------
+
+**Speaker:** Yotam Sandbank
+
+**Title:** Tuning Machine Learning Models
+
+**Resources:** TBD
+
+
+Gal Eyal - Practical Machine Learning Track - Advanced
+------------------------------------------------------
+
+**Speaker:** Gal Eyal
+
+**Title:** Advanced Machine Learning Models & Techniques
+
+**Resources:** TBD
+
 
 Data Science Summit Europe: Workshop Day
 ========================================

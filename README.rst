@@ -90,7 +90,7 @@ Daniel Marcous - Coding Your First Model
 **Resources:** https://github.com/DataHackIL/DataWorkshops/blob/master/DataHack2018/Daniel_Marcous_Introduction_to_Machine_Learning__Coding_Your_First_Model.pdf
 
 
-DataHack 2018: DataLearn - Workshops Track
+DataHack 2018: DataLearn - The Workshop Track
 ==========================================
 
 Gad Benram - Deep Learning Workshop
@@ -113,10 +113,10 @@ Daniel Marcous - Practical Machine Learning Track - General
 **Resources:** TBD
 
 
-TBD - Practical Machine Learning Track - Preprocessing
+Shay Palachy - Practical Machine Learning Track - Preprocessing
 ------------------------------------------------------
 
-**Speaker:** TBD
+**Speaker:** The (honestly, quite silly) Shay Palachy
 
 **Title:** Preprocessing Data for Machine Learning
 

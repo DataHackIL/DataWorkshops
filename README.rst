@@ -110,7 +110,9 @@ Daniel Marcous - Practical Machine Learning Track - General
 
 **Title:** Introduction, Machine Learning Refresher, Kaggling
 
-**Resources:** TBD
+**Resources:** 
+https://goo.gl/5P6aCy
+https://goo.gl/TB4CqD
 
 
 Shay Palachy - Practical Machine Learning Track - Preprocessing
@@ -120,7 +122,7 @@ Shay Palachy - Practical Machine Learning Track - Preprocessing
 
 **Title:** Preprocessing Data for Machine Learning
 
-**Resources:** TBD
+**Resources:** https://goo.gl/q6a376
 
 
 Yotam Sandbank - Practical Machine Learning Track - Tuning
@@ -130,7 +132,7 @@ Yotam Sandbank - Practical Machine Learning Track - Tuning
 
 **Title:** Tuning Machine Learning Models
 
-**Resources:** TBD
+**Resources:** https://goo.gl/6nnVpy
 
 
 Gal Eyal - Practical Machine Learning Track - Advanced
@@ -140,4 +142,4 @@ Gal Eyal - Practical Machine Learning Track - Advanced
 
 **Title:** Advanced Machine Learning Models & Techniques
 
-**Resources:** TBD
+**Resources:** https://goo.gl/XDHCiV

@@ -100,6 +100,8 @@ Gad Benram - Deep Learning Workshop
 
 **Title:** Introduction to Deep Learning
 
+**Video:** https://www.youtube.com/watch?v=EAoepWs4bDI
+
 **Resources:** TBD
 
 

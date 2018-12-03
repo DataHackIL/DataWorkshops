@@ -102,7 +102,7 @@ Gad Benram - Deep Learning Workshop
 
 **Video:** https://www.youtube.com/watch?v=EAoepWs4bDI
 
-**Resources:** TBD
+**Resources:** https://drive.google.com/file/d/1G-vR3DaM72_Q4b8lOSQWEY0eQXBrwSWE/view?usp=sharing
 
 
 Daniel Marcous - Practical Machine Learning Track - General

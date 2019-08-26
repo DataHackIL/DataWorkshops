@@ -91,7 +91,7 @@ Daniel Marcous - Coding Your First Model
 
 
 DataHack 2018: DataLearn - The Workshop Track
-==========================================
+=============================================
 
 Gad Benram - Deep Learning Workshop
 -----------------------------------
@@ -153,3 +153,22 @@ Gal Eyal - Practical Machine Learning Track - Advanced
 **Video:** https://youtu.be/V76u-PMPD98
 
 **Resources:** https://goo.gl/XDHCiV
+
+
+Deep Learning Hands-on for Data Scientists
+==========================================
+
+**Speaker:** Eyal Gruss
+
+**Event Link:** https://www.meetup.com/DataHack/events/263725809/
+
+**Video:** TBA
+
+
+DataLearn 2019: The Workshop Track
+==================================
+
+Shay Palachy - Intro to Machine Learning
+----------------------------------------
+
+Repository: https://github.com/DataHackIL/DataLearn-ML-Intro-2019

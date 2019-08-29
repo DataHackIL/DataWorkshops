@@ -168,7 +168,21 @@ Deep Learning Hands-on for Data Scientists
 DataLearn 2019: The Workshop Track
 ==================================
 
+Oryan Moshe - Monday.com challenge presentation
+-----------------------------------------------
+
+**Speaker:** Oryan Moshe
+
+**Slides:** https://docs.google.com/presentation/d/1BEQdjo7tP_gGEBqbXOE2jiOGIR_5UXGU_gAabTCa0fQ/edit?usp=sharing
+
+**Event Link:** https://www.meetup.com/DataHack/events/263740425/
+
+
 Shay Palachy - Intro to Machine Learning
 ----------------------------------------
 
-Repository: https://github.com/DataHackIL/DataLearn-ML-Intro-2019
+**Speaker:** `Shay Palachy <http://www.shaypalachy.com/>`_
+
+**Repository:** https://github.com/DataHackIL/DataLearn-ML-Intro-2019
+
+**Event Link:** https://www.meetup.com/DataHack/events/263740425/

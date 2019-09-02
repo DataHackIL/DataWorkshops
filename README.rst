@@ -173,6 +173,8 @@ Oryan Moshe - Monday.com challenge presentation
 
 **Speaker:** Oryan Moshe
 
+**Video:** https://youtu.be/Su8YcXgkDsk?t=328
+
 **Slides:** https://docs.google.com/presentation/d/1BEQdjo7tP_gGEBqbXOE2jiOGIR_5UXGU_gAabTCa0fQ/edit?usp=sharing
 
 **Event Link:** https://www.meetup.com/DataHack/events/263740425/
@@ -182,6 +184,8 @@ Shay Palachy - Intro to Machine Learning
 ----------------------------------------
 
 **Speaker:** `Shay Palachy <http://www.shaypalachy.com/>`_
+
+**Video:** https://youtu.be/Su8YcXgkDsk?t=1701
 
 **Repository:** https://github.com/DataHackIL/DataLearn-ML-Intro-2019
 

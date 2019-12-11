@@ -190,3 +190,39 @@ Shay Palachy - Intro to Machine Learning
 **Repository:** https://github.com/DataHackIL/DataLearn-ML-Intro-2019
 
 **Event Link:** https://www.meetup.com/DataHack/events/263740425/
+
+
+Gal Braun - Preprocessing
+----------------------------------------
+
+**Speaker:** Gal Braun
+
+**Slides:** https://docs.google.com/presentation/d/1ir2eMFGwrOaV8fk3xLiidJ9ZC33coTmes56ggRK1nQ8/edit?usp=sharing
+
+**Repository:** https://github.com/DataHackIL/DataWorkshops/tree/master/DataHack2019-DataLearn
+
+**Resources:** https://github.com/DataHackIL/DataWorkshops/blob/master/DataHack2019-DataLearn/ParametricModels.ipynb
+
+
+Dana Kaner - Introduction to modeling and Tree-based models
+----------------------------------------
+
+**Speaker:** Dana Kaner
+
+**Slides:** https://docs.google.com/presentation/d/1y5WQVfSqJiaprpKYyrja3SqwuHU7-jnHz2WO3FG2VBo/edit?usp=sharing
+
+**Repository:** https://github.com/DataHackIL/DataWorkshops/tree/master/DataHack2019-DataLearn
+
+**Resources:** https://github.com/DataHackIL/DataWorkshops/blob/master/DataHack2019-DataLearn/TreeBasedModels.ipynb
+
+
+Dana Rubinstein - Parametric models
+----------------------------------------
+
+**Speaker:** Dana Rubinstein
+
+**Slides:** https://docs.google.com/presentation/d/1y5WQVfSqJiaprpKYyrja3SqwuHU7-jnHz2WO3FG2VBo/edit?usp=sharing
+
+**Repository:** https://github.com/DataHackIL/DataWorkshops/tree/master/DataHack2019-DataLearn
+
+**Resources:** https://github.com/DataHackIL/DataWorkshops/blob/master/DataHack2019-DataLearn/ParametricModels.ipynb
